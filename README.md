@@ -75,7 +75,5 @@ I enjoy building scalable UI and API automation frameworks using **Playwright, S
 | :--- | :--- | :--- |
 | **[SauceDemo Selenium POM Framework](https://github.com/arindam0111/saucedemo-selenium-pom-framework)** | Java • TestNG • Selenium • Maven | Robust UI test automation framework utilizing Page Object Model design pattern. |
 | **[QuickPizza k6 Performance Framework](https://github.com/arindam0111/quickpizza-k6-performance-framework)** | JavaScript • Grafana k6 | Performance and load testing framework analyzing throughput and response times. |
-| **[RestAssured Java TestNG Framework](https://github.com/arindam0111/rest-assured-java-testng-framework)** | Java • RestAssured • TestNG • Jackson | Enterprise-grade API automation framework for full CRUD cycle validation. |
-| **[Restful-Booker Postman & Newman Suite](https://github.com/arindam0111/restful-booker-postman-newman)** | Postman • Newman • GitHub Actions | Automated API test collection integrated with CI/CD pipeline execution. |
----
+| **[Restful Booker k6 Performance Framework](https://github.com/arindam0111/restful-booker-k6-performance-framework)** | JavaScript • Grafana k6 • API Testing | Performance testing framework evaluating API throughput, load endurance, and response metrics for Restful-Booker. |
 
