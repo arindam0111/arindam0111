@@ -20,7 +20,7 @@ I also build hands-on automation and performance-testing projects using **k6** t
 | **Test Frameworks**     | TestNG, Cucumber                  |
 | **Performance Testing** | k6 — hands-on projects            |
 | **Design Patterns**     | Page Object Model (POM)           |
-| **CI/CD**               | Jenkins, GitHub Actions           |
+| **CI/CD**               | Jenkins                           |
 | **Version Control**     | Git, GitHub                       |
 | **Database**            | Microsoft SQL Server, Oracle SQL  |
 | **Defect Management**   | JIRA                              |
