@@ -1,157 +1,212 @@
 # Hi, I'm Arindam Chowdhury 👋
 
-### QA Automation Engineer / SDET | Selenium • Playwright • API Testing • k6
+### QA Automation Engineer / SDET
 
-QA Automation Engineer with **4+ years of experience** in Software Testing and Quality Assurance, working across **Manual Testing, UI Automation, API Testing, and test framework development** for enterprise SaaS applications.
+I’m a **QA Automation Engineer with 4+ years of experience** in software testing, working across **UI automation, API testing, manual testing, and performance testing**.
 
-I currently work with **Selenium WebDriver, Java, Playwright, JavaScript/TypeScript, Postman, SQL, TestNG, Cucumber, Jenkins, and Git**.
+I build maintainable automation frameworks using **Selenium, Playwright, Java, TypeScript, JavaScript, and k6**, with a focus on **Page Object Model, reusable test components, data-driven testing, API validation, CI/CD, and test reporting**.
 
-I also build hands-on automation and performance-testing projects using **k6** to strengthen my skills in framework design, load testing, metrics, thresholds, and CI/CD.
+---
+
+## 🧪 About Me
+
+* 💼 QA Automation Engineer / Engineer – Professional Services
+* 🔍 4+ years of experience in Software Testing and STLC
+* 🌐 UI Automation: **Selenium WebDriver & Playwright**
+* 🔌 API Testing: **Postman & Playwright APIRequest**
+* ⚡ Performance Testing: **k6**
+* 🗄️ Database Testing: **SQL – MSSQL & Oracle**
+* 🧩 Test Frameworks: **TestNG & Cucumber**
+* 🔄 CI/CD: **Jenkins & GitHub Actions**
+* 🏗️ Framework Design: **Page Object Model, reusable fixtures, data-driven testing**
+* 🛠️ Tools: **Git, GitHub, JIRA, Postman**
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category                | Technologies                      |
-| ----------------------- | --------------------------------- |
-| **Languages**           | Java, JavaScript, TypeScript, SQL |
-| **UI Automation**       | Selenium WebDriver, Playwright    |
-| **API Testing**         | Postman, REST API Testing         |
-| **Test Frameworks**     | TestNG, Cucumber                  |
-| **Performance Testing** | k6 — hands-on projects            |
-| **Design Patterns**     | Page Object Model (POM)           |
-| **CI/CD**               | Jenkins                           |
-| **Version Control**     | Git, GitHub                       |
-| **Database**            | Microsoft SQL Server, Oracle SQL  |
-| **Defect Management**   | JIRA                              |
+### Languages
+
+`Java` `JavaScript` `TypeScript` `SQL`
+
+### UI Automation
+
+`Selenium WebDriver` `Playwright` `Page Object Model`
+
+### API Testing
+
+`Postman` `REST API Testing` `Playwright API`
+
+### Test Frameworks
+
+`TestNG` `Cucumber` `Playwright Test`
+
+### Performance Testing
+
+`k6` `API Performance Testing` `Browser Performance Testing`
+
+### CI/CD & Tools
+
+`Jenkins` `GitHub Actions` `Git` `GitHub` `JIRA`
+
+### Database
+
+`MSSQL` `Oracle SQL`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Automation Projects
 
-### 🔹 SauceDemo Selenium POM Framework
+### 1. Playwright TypeScript Automation Framework
 
-**Java • Selenium WebDriver • TestNG • Maven • POM**
+**Playwright • TypeScript • UI Testing • API Testing • POM • GitHub Actions**
 
-A UI automation framework demonstrating maintainable Selenium test automation using the Page Object Model.
+A modern test automation framework covering both **UI and REST API testing**.
 
-**Key features:**
+**Highlights:**
 
 * Page Object Model architecture
-* Selenium WebDriver
-* TestNG test execution
-* Data-driven testing
+* Data-driven login testing
+* Smoke and regression tagging
+* Chromium, Firefox and WebKit execution
+* RESTful Booker API automation
+* API client abstraction
+* Environment-based configuration
+* HTML reporting
+* Failure screenshots, videos and traces
+* GitHub Actions CI/CD
+* 18 automated test executions
+
+🔗 [View Repository](https://github.com/arindam0111/saucedemo-playwright-framework)
+
+---
+
+### 2. Selenium Java Automation Framework
+
+**Selenium WebDriver • Java • TestNG • POM • Maven**
+
+A reusable Selenium automation framework for the SauceDemo application.
+
+**Highlights:**
+
+* Page Object Model
+* ThreadLocal WebDriver
 * Explicit waits
-* ThreadLocal WebDriver management
+* Data-driven testing
+* Smoke and regression suites
 * Centralized configuration
+* Screenshot capture on failure
+* Maven execution
 * Headless execution
-* Failure screenshots
-* Maven-based execution
 
 🔗 [View Repository](https://github.com/arindam0111/saucedemo-selenium-pom-framework)
 
 ---
 
-### 🔹 Restful Booker k6 Performance Framework
+### 3. QuickPizza k6 Performance Framework
 
 **k6 • JavaScript • REST API • Performance Testing**
 
-A hands-on performance-testing framework built around the Restful Booker API.
+An API performance testing framework built around the QuickPizza application.
 
-**Key features:**
+**Highlights:**
 
-* API workflow automation
-* Authentication handling
-* Smoke testing
-* Load testing
-* Stress testing
-* Spike testing
-* Soak testing
-* Custom k6 metrics
-* Thresholds
-* Environment-based configuration
-* Test-data separation
-* Performance diagnostics
-
-> Performance results in this project are intended for learning and framework demonstration and should not be treated as production capacity benchmarks.
-
-🔗 [View Repository](https://github.com/arindam0111/restful-booker-k6-performance-framework)
-
----
-
-### 🔹 QuickPizza k6 Performance Framework
-
-**k6 • JavaScript • API Testing • Performance Testing**
-
-A k6-based framework created while learning and applying performance-testing concepts such as scenarios, custom metrics, thresholds, test workflows, and reusable framework components.
-
-**Focus areas:**
-
-* k6 framework structure
-* API workflow testing
-* Custom metrics
-* Load profiles
-* Thresholds
-* Reusable utilities
-* Test configuration
-* Performance-test reporting
+* End-to-end API workflow
+* User registration and authentication
+* Order creation and retrieval
+* Custom performance metrics
+* Transaction timing
+* Authentication success rate
+* Active user tracking
+* Load testing scenarios
 
 🔗 [View Repository](https://github.com/arindam0111/quickpizza-k6-performance-framework)
 
 ---
 
-## 📚 Currently Learning
+### 4. Restful Booker k6 Performance Framework
 
-* Playwright with TypeScript
-* Advanced API automation
-* k6 performance testing
-* Git and GitHub workflows
-* GitHub Actions / CI/CD
-* Automation framework design
-* Performance testing concepts
+**k6 • JavaScript • REST API • Performance Testing**
 
----
+A performance testing framework for the Restful Booker API.
 
-## 💼 Professional Experience
+**Highlights:**
 
-**Engineer – Professional Services | Kytes**
+* Authentication
+* Booking creation
+* Booking retrieval
+* Booking update
+* Booking deletion
+* Load and soak testing
+* Checks and thresholds
+* Custom performance metrics
 
-Working on enterprise SaaS applications with responsibilities across:
-
-* UI automation using Selenium WebDriver and Playwright
-* Java-based test automation
-* Functional, regression, smoke and sanity testing
-* API testing using Postman
-* SQL-based data validation
-* Cross-browser testing
-* Defect analysis and RCA
-* Jenkins CI/CD integration
-* JIRA defect management
-* Automation framework maintenance and enhancement
+🔗 [View Repository](https://github.com/arindam0111/restful-booker-k6-performance-framework)
 
 ---
 
-## 🎯 Career Focus
+### 5. SauceDemo k6 Browser Performance Framework
 
-I'm interested in opportunities involving:
+**k6 Browser • JavaScript • Performance Testing**
 
-* **QA Automation Engineering**
-* **SDET**
-* **Test Automation Engineering**
-* **UI & API Automation**
-* **Automation Framework Development**
-* **Quality Engineering**
+A browser-based performance testing project using the k6 browser module.
 
----
+**Highlights:**
 
-## 📫 Connect With Me
+* Browser-based test execution
+* Page navigation validation
+* Login and purchase flow
+* Browser performance metrics
+* LCP and CLS measurement
+* Config-driven execution
+* Performance reporting
 
-**LinkedIn:**
-[linkedin.com/in/arindam-chowdhury-qa](https://www.linkedin.com/in/arindam-chowdhury-qa)
-
-**GitHub:**
-[github.com/arindam0111](https://github.com/arindam0111)
+🔗 [View Repository](https://github.com/arindam0111/SauceDemo-k6-Browser-Performance-Testing-Framework)
 
 ---
 
-⭐ Feel free to explore my repositories and automation projects.
+## 📊 Testing & Automation Skills
+
+| Area                | Skills                                                  |
+| ------------------- | ------------------------------------------------------- |
+| Functional Testing  | Smoke, Sanity, Regression, Integration, System Testing  |
+| UI Automation       | Selenium WebDriver, Playwright                          |
+| API Testing         | Postman, REST API, Playwright API                       |
+| Performance Testing | k6, Load Testing, Soak Testing, Browser Performance     |
+| Framework Design    | POM, Fixtures, Reusable Components, Data-Driven Testing |
+| Database Testing    | SQL, MSSQL, Oracle                                      |
+| CI/CD               | Jenkins, GitHub Actions                                 |
+| Defect Management   | JIRA, Root Cause Analysis                               |
+| Development Tools   | Git, GitHub, Maven                                      |
+
+---
+
+## 🎯 What I'm Currently Building
+
+I'm continuously improving my automation portfolio by building practical projects around:
+
+* Modern UI automation with **Playwright + TypeScript**
+* Enterprise-style automation with **Selenium + Java**
+* API automation and validation
+* Performance testing with **k6**
+* CI/CD integration
+* Maintainable automation framework architecture
+
+---
+
+## 📈 GitHub Activity
+
+I use GitHub to document my automation projects, framework design decisions, test implementations, and continuous learning in QA automation.
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/)
+* 📧 Email: arindamjisee@gmail.com
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories to see examples of **UI automation, API testing, performance testing, framework design, and CI/CD**.
