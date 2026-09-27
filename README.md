@@ -202,7 +202,7 @@ I use GitHub to document my automation projects, framework design decisions, tes
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/arindam-chowdhury-qa/)
 * 📧 Email: arindamjisee@gmail.com
 
 ---
