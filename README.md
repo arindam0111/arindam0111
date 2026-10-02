@@ -209,15 +209,14 @@ My repositories demonstrate hands-on implementation rather than only tool famili
 
 ---
 
-## 🔨 What I'm Currently Building
+🚀 What I'm Currently Building
 
-* 🎭 Advanced Playwright automation frameworks
-* 🔌 API automation with Playwright
-* ⚡ k6 performance testing frameworks
-* 🔄 CI/CD automation with GitHub Actions
-* 🧪 Maintainable Selenium and Playwright frameworks
-* 📊 Automated test reporting and failure analysis
-
+- 🔄 GitHub Actions CI/CD pipelines for test automation
+- 📊 Advanced automated reporting and failure analysis
+- ⚡ k6 performance test result analysis and optimization
+- 🧪 Reusable and maintainable automation framework components
+- 🔌 Advanced API validation and test-data strategies
+- 🏗️ Scalable test automation architecture
 ---
 
 ## 🎯 Career Focus
