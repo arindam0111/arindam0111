@@ -44,75 +44,36 @@ I work with **Playwright, Selenium WebDriver, Java, TypeScript, JavaScript, Test
 
 ## 🚀 Featured Projects
 
-### 🎭 [SauceDemo Playwright Automation](https://github.com/arindam0111/saucedemo-playwright-automation)
+### 🎭 [SauceDemo Playwright Automation](https://github.com/arindam0111/saucedemo-playwright-framework)
 
-**Playwright + TypeScript UI and API automation framework** featuring:
+**Playwright • TypeScript • Page Object Model • API Testing • dotenv**
 
-* Page Object Model
-* Custom Playwright fixtures
-* Multi-browser testing
-* Chromium, Firefox and WebKit
-* UI and API automation
-* Restful Booker API client
-* TypeScript type definitions
-* Environment-based configuration
-* HTML reporting
-* Screenshots, videos and traces on failure
-* GitHub Actions CI/CD
-
-**Test Coverage:** Login, purchase workflow and REST API scenarios.
-
----
+End-to-end UI and API automation framework built with Playwright and TypeScript, featuring reusable Page Objects, environment-based configuration, API testing, and structured test organization.
 
 ### 🧪 [SauceDemo Selenium POM Framework](https://github.com/arindam0111/saucedemo-selenium-pom-framework)
 
-**Java + Selenium WebDriver + TestNG automation framework** implementing:
+**Selenium WebDriver • Java • TestNG • POM • Maven**
 
-* Page Object Model
-* Reusable page components
-* Explicit waits
-* ThreadLocal WebDriver
-* External configuration
-* Smoke and regression suites
-* Data-driven testing
-* Headless execution
-* Automated screenshots on test failure
-* Maven-based execution
+UI automation framework implementing Page Object Model, reusable WebDriver management, smoke/regression test groups, configuration-driven execution, and TestNG-based automation.
 
----
+### 🔌 [Restful Booker Postman API Automation](https://github.com/arindam0111/restful-booker-postman-api)
+
+**Postman • JavaScript • REST API Testing • CRUD • Authentication • Negative & Boundary Testing**
+
+API automation suite covering authentication, complete CRUD lifecycle validation, dynamic token and booking ID correlation, negative scenarios, boundary testing, and environment-driven test execution.
 
 ### ⚡ [Restful Booker k6 Performance Framework](https://github.com/arindam0111/restful-booker-k6-performance-framework)
 
-**k6 REST API performance testing framework** covering:
+**k6 • JavaScript • API Performance Testing • Load Testing • Metrics**
 
-* API workflow testing
-* Load testing
-* Stress testing
-* Spike testing
-* Soak testing
-* Custom performance metrics
-* Threshold-based validation
-* Response validation
-* Failure analysis
-* Configurable test scenarios
-
----
+Performance testing framework for the Restful Booker API covering load scenarios, response-time validation, custom metrics, thresholds, and performance analysis.
 
 ### 🍕 [QuickPizza k6 Performance Framework](https://github.com/arindam0111/quickpizza-k6-performance-framework)
 
-**k6 API performance testing framework** covering a complete application workflow:
+**k6 • JavaScript • API & Browser Performance Testing • Custom Metrics**
 
-* User registration
-* Authentication
-* Order creation
-* Order retrieval
-* Order listing
-* Order deletion
-* Custom metrics
-* Authentication success rate
-* Transaction time measurement
-* Virtual-user execution
-* Performance thresholds
+k6 performance testing project targeting the QuickPizza application with end-to-end transaction validation, custom business metrics, thresholds, and performance-oriented test scenarios.
+
 
 ---
 
